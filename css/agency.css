@@ -41,7 +41,7 @@ section {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0; } }
+    padding: 50px 0; } }
 
 ::-moz-selection {
   background: #fed136;
@@ -160,6 +160,7 @@ header.masthead {
 
 .intro-heading {
   color: white;
+  background-color: #fed136;
 }
 
 .service-heading {
@@ -566,8 +567,8 @@ ul.social-buttons {
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
-  border-color: #fed136;
-  background-color: #fed136;
+  border-color: #801F26;
+  background-color: #801F26;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
